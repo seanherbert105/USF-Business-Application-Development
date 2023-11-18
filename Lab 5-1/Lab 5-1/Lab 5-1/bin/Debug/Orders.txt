@@ -1,0 +1,14 @@
+11/23/2020
+The ice cream cone type you have choosen:  
+Waffle Cone
+
+The ice cream flavor you have choosen:  
+Butter Pecan
+
+The toppings you have choosen:  
+Chopped Nuts
+The toppings you have choosen:  
+Chocolate Chips
+The toppings you have choosen:  
+Marshmallows
+

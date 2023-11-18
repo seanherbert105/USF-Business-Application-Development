@@ -1,0 +1,10 @@
+C:\Users\sam\Source\Repos\Fun With Flags\Fun With Flags\bin\Debug\Fun With Flags.exe.config
+C:\Users\sam\Source\Repos\Fun With Flags\Fun With Flags\bin\Debug\Fun With Flags.exe
+C:\Users\sam\Source\Repos\Fun With Flags\Fun With Flags\bin\Debug\Fun With Flags.pdb
+C:\Users\sam\Source\Repos\Fun With Flags\Fun With Flags\obj\Debug\Fun With Flags.csprojAssemblyReference.cache
+C:\Users\sam\Source\Repos\Fun With Flags\Fun With Flags\obj\Debug\Fun_With_Flags.Form1.resources
+C:\Users\sam\Source\Repos\Fun With Flags\Fun With Flags\obj\Debug\Fun_With_Flags.Properties.Resources.resources
+C:\Users\sam\Source\Repos\Fun With Flags\Fun With Flags\obj\Debug\Fun With Flags.csproj.GenerateResource.cache
+C:\Users\sam\Source\Repos\Fun With Flags\Fun With Flags\obj\Debug\Fun With Flags.csproj.CoreCompileInputs.cache
+C:\Users\sam\Source\Repos\Fun With Flags\Fun With Flags\obj\Debug\Fun With Flags.exe
+C:\Users\sam\Source\Repos\Fun With Flags\Fun With Flags\obj\Debug\Fun With Flags.pdb

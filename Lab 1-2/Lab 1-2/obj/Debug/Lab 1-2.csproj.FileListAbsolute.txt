@@ -1,0 +1,10 @@
+C:\Users\sam\Desktop\USF Assignments\Business Application Development\Lab 1-2\Lab 1-2\bin\Debug\Lab 1-2.exe.config
+C:\Users\sam\Desktop\USF Assignments\Business Application Development\Lab 1-2\Lab 1-2\bin\Debug\Lab 1-2.exe
+C:\Users\sam\Desktop\USF Assignments\Business Application Development\Lab 1-2\Lab 1-2\bin\Debug\Lab 1-2.pdb
+C:\Users\sam\Desktop\USF Assignments\Business Application Development\Lab 1-2\Lab 1-2\obj\Debug\Lab 1-2.csprojAssemblyReference.cache
+C:\Users\sam\Desktop\USF Assignments\Business Application Development\Lab 1-2\Lab 1-2\obj\Debug\Lab_1_2.Form1.resources
+C:\Users\sam\Desktop\USF Assignments\Business Application Development\Lab 1-2\Lab 1-2\obj\Debug\Lab_1_2.Properties.Resources.resources
+C:\Users\sam\Desktop\USF Assignments\Business Application Development\Lab 1-2\Lab 1-2\obj\Debug\Lab 1-2.csproj.GenerateResource.cache
+C:\Users\sam\Desktop\USF Assignments\Business Application Development\Lab 1-2\Lab 1-2\obj\Debug\Lab 1-2.csproj.CoreCompileInputs.cache
+C:\Users\sam\Desktop\USF Assignments\Business Application Development\Lab 1-2\Lab 1-2\obj\Debug\Lab 1-2.exe
+C:\Users\sam\Desktop\USF Assignments\Business Application Development\Lab 1-2\Lab 1-2\obj\Debug\Lab 1-2.pdb

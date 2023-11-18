@@ -1,0 +1,10 @@
+C:\Users\sam\Desktop\USF Assignments\Business Application Development\Assignments\Assignment 1\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe.config
+C:\Users\sam\Desktop\USF Assignments\Business Application Development\Assignments\Assignment 1\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+C:\Users\sam\Desktop\USF Assignments\Business Application Development\Assignments\Assignment 1\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+C:\Users\sam\Desktop\USF Assignments\Business Application Development\Assignments\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csprojAssemblyReference.cache
+C:\Users\sam\Desktop\USF Assignments\Business Application Development\Assignments\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment_1.motorwayMotel.resources
+C:\Users\sam\Desktop\USF Assignments\Business Application Development\Assignments\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment_1.Properties.Resources.resources
+C:\Users\sam\Desktop\USF Assignments\Business Application Development\Assignments\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.GenerateResource.cache
+C:\Users\sam\Desktop\USF Assignments\Business Application Development\Assignments\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\sam\Desktop\USF Assignments\Business Application Development\Assignments\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.exe
+C:\Users\sam\Desktop\USF Assignments\Business Application Development\Assignments\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
